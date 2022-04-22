@@ -1,1 +1,2 @@
-# Hava-Sicakligina-G-re-Etkinlik
+# Hava-Sicakligina-Gore-Etkinlik
+[www.patika.dev](https://app.patika.dev/)
